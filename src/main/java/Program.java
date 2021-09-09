@@ -37,7 +37,7 @@ public class Program {
             }
             products.remove();
             System.out.println("Покупатель купил 1 товар");
-            System.out.println("Товаров на складе: " + products.size());
+            System.out.println("Товаров на складе:  " + products.size());
             notify();
         }
 
